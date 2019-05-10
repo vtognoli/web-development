@@ -1,0 +1,36 @@
+  body {
+    font-family: "Montserrat";
+    text-align: center;
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+  }
+
+  #title {
+    color: white;
+    background-color: #333;
+    font-size: 3.5rem;
+    font-weight: bold;
+    padding: 40px;
+    margin: 0 0 3% 0;
+  }
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    background-color: white;
+
+}
+
+#img-caption{
+  font-style: italic;
+  margin: 10px auto 3% auto;
+}
+
+#tribute-info{
+  background-color: #D3D3D3;
+  padding: 3% 7%;
+  text-align: left;
+  text-indent: 2rem;
+}
